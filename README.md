@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Reality-Capture-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Reality-Capture-Platform?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Reality-Capture-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Reality-Capture-Platform?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Reality-Capture-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Reality-Capture-Platform?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Reality-Capture-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Reality-Capture-Platform?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Reality-Capture-Platform/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -60,70 +60,70 @@ The table below is sorted by **Company Scale (Valuation / Revenue) descending**:
 
 The reality capture and spatial computing ecosystem benefits from a rich open-source landscape. Below are the top open-source projects sorted by **GitHub Star Count descending**. Each project badge links directly to its **stargazers** page:
 
-1. **[3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting)** [![GitHub stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social&color=white)](https://github.com/graphdeco-inria/gaussian-splatting/stargazers)  
+1. **[3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting)** [![GitHub_Stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social&color=white)](https://github.com/graphdeco-inria/gaussian-splatting/stargazers)  
    Original reference implementation of *"3D Gaussian Splatting for Real-Time Radiance Field Rendering"*. A revolutionary breakthrough providing real-time, photorealistic novel-view rendering from calibrated reality-capture photo collections without traditional mesh tessellation.
 
-2. **[Cesium](https://github.com/CesiumGS/cesium)** [![GitHub stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social&color=white)](https://github.com/CesiumGS/cesium/stargazers)  
+2. **[Cesium](https://github.com/CesiumGS/cesium)** [![GitHub_Stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social&color=white)](https://github.com/CesiumGS/cesium/stargazers)  
    The industry-standard open-source JavaScript platform and 3D Tiles rendering engine for streaming massive geospatial datasets, terrain, point clouds, and global digital twins directly into web browsers.
 
-3. **[Open3D](https://github.com/isl-org/Open3D)** [![GitHub stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white)](https://github.com/isl-org/Open3D/stargazers)  
+3. **[Open3D](https://github.com/isl-org/Open3D)** [![GitHub_Stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white)](https://github.com/isl-org/Open3D/stargazers)  
    Modern C++ and Python library for 3D data structures and algorithms. Features state-of-the-art point cloud registration (ICP), Poisson surface reconstruction, normal estimation, mesh deformation, and hardware-accelerated rendering.
 
-4. **[Meshroom (AliceVision)](https://github.com/alicevision/Meshroom)** [![GitHub stars](https://img.shields.io/github/stars/alicevision/Meshroom?style=social&color=white)](https://github.com/alicevision/Meshroom/stargazers)  
+4. **[Meshroom (AliceVision)](https://github.com/alicevision/Meshroom)** [![GitHub_Stars](https://img.shields.io/github/stars/alicevision/Meshroom?style=social&color=white)](https://github.com/alicevision/Meshroom/stargazers)  
    Node-based visual programming photogrammetry workbench powered by the AliceVision framework. Enables artists, surveyors, and engineers to build customized pipelines turning photos into fully textured 3D meshes.
 
-5. **[COLMAP](https://github.com/colmap/colmap)** [![GitHub stars](https://img.shields.io/github/stars/colmap/colmap?style=social&color=white)](https://github.com/colmap/colmap/stargazers)  
+5. **[COLMAP](https://github.com/colmap/colmap)** [![GitHub_Stars](https://img.shields.io/github/stars/colmap/colmap?style=social&color=white)](https://github.com/colmap/colmap/stargazers)  
    General Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface. Gold standard for academic and industrial camera pose estimation, scene triangulation, and dense point-cloud reconstruction.
 
-6. **[Nerfstudio](https://github.com/nerfstudio-project/nerfstudio)** [![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio?style=social&color=white)](https://github.com/nerfstudio-project/nerfstudio/stargazers)  
+6. **[Nerfstudio](https://github.com/nerfstudio-project/nerfstudio)** [![GitHub_Stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio?style=social&color=white)](https://github.com/nerfstudio-project/nerfstudio/stargazers)  
    Modular, developer-friendly framework for creating, training, and testing Neural Radiance Fields (NeRFs) and 3D Gaussian Splats. Includes interactive web-based real-time viewers and camera path animators.
 
-7. **[Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)** [![GitHub stars](https://img.shields.io/github/stars/PointCloudLibrary/pcl?style=social&color=white)](https://github.com/PointCloudLibrary/pcl/stargazers)  
+7. **[Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)** [![GitHub_Stars](https://img.shields.io/github/stars/PointCloudLibrary/pcl?style=social&color=white)](https://github.com/PointCloudLibrary/pcl/stargazers)  
    Comprehensive, large-scale open-source framework for n-dimensional point clouds and 3D geometry processing. Implements filtering, feature estimation, surface reconstruction, registration, model fitting, and segmentation.
 
-8. **[ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)** [![GitHub stars](https://img.shields.io/github/stars/UZ-SLAMLab/ORB_SLAM3?style=social&color=white)](https://github.com/UZ-SLAMLab/ORB_SLAM3/stargazers)  
+8. **[ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)** [![GitHub_Stars](https://img.shields.io/github/stars/UZ-SLAMLab/ORB_SLAM3?style=social&color=white)](https://github.com/UZ-SLAMLab/ORB_SLAM3/stargazers)  
    High-accuracy visual, visual-inertial, and multi-map SLAM system capable of performing real-time localization and mapping with monocular, stereo, and RGB-D sensors using pinhole or fisheye lenses.
 
-9. **[openMVG](https://github.com/openMVG/openMVG)** [![GitHub stars](https://img.shields.io/github/stars/openMVG/openMVG?style=social&color=white)](https://github.com/openMVG/openMVG/stargazers)  
+9. **[openMVG](https://github.com/openMVG/openMVG)** [![GitHub_Stars](https://img.shields.io/github/stars/openMVG/openMVG?style=social&color=white)](https://github.com/openMVG/openMVG/stargazers)  
    Open Multiple View Geometry library. C++ framework providing verified geometric computer vision algorithms for feature matching, fundamental/essential matrix estimation, and Structure-from-Motion.
 
-10. **[OpenDroneMap (ODM)](https://github.com/OpenDroneMap/ODM)** [![GitHub stars](https://img.shields.io/github/stars/OpenDroneMap/ODM?style=social&color=white)](https://github.com/OpenDroneMap/ODM/stargazers)  
+10. **[OpenDroneMap (ODM)](https://github.com/OpenDroneMap/ODM)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenDroneMap/ODM?style=social&color=white)](https://github.com/OpenDroneMap/ODM/stargazers)  
     Leading open-source command-line photogrammetry toolkit for drone, aerial, and ground imagery. Produces georeferenced orthomosaics, digital surface models (DSMs), point clouds, and textured 3D meshes.
 
-11. **[MeshLab](https://github.com/cnr-isti-vclab/meshlab)** [![GitHub stars](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?style=social&color=white)](https://github.com/cnr-isti-vclab/meshlab/stargazers)  
+11. **[MeshLab](https://github.com/cnr-isti-vclab/meshlab)** [![GitHub_Stars](https://img.shields.io/github/stars/cnr-isti-vclab/meshlab?style=social&color=white)](https://github.com/cnr-isti-vclab/meshlab/stargazers)  
     General-purpose 3D triangular mesh and point cloud processing software system. Used for cleaning, repairing, inspecting, rendering, and texturing 3D scanning outputs.
 
-12. **[gsplat](https://github.com/nerfstudio-project/gsplat)** [![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat?style=social&color=white)](https://github.com/nerfstudio-project/gsplat/stargazers)  
+12. **[gsplat](https://github.com/nerfstudio-project/gsplat)** [![GitHub_Stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat?style=social&color=white)](https://github.com/nerfstudio-project/gsplat/stargazers)  
     CUDA-accelerated library for rasterization of 3D Gaussian Splatting with PyTorch bindings. Delivers memory-efficient, lightning-fast forward and backward passes for spatial capture research and production.
 
-13. **[Potree](https://github.com/potree/potree)** [![GitHub stars](https://img.shields.io/github/stars/potree/potree?style=social&color=white)](https://github.com/potree/potree/stargazers)  
+13. **[Potree](https://github.com/potree/potree)** [![GitHub_Stars](https://img.shields.io/github/stars/potree/potree?style=social&color=white)](https://github.com/potree/potree/stargazers)  
     WebGL-based octree point cloud renderer capable of smoothly rendering massive datasets (hundreds of millions or billions of points) in web browsers with real-time measurement and profile tools.
 
-14. **[FAST-LIO](https://github.com/hku-mars/FAST_LIO)** [![GitHub stars](https://img.shields.io/github/stars/hku-mars/FAST_LIO?style=social&color=white)](https://github.com/hku-mars/FAST_LIO/stargazers)  
+14. **[FAST-LIO](https://github.com/hku-mars/FAST_LIO)** [![GitHub_Stars](https://img.shields.io/github/stars/hku-mars/FAST_LIO?style=social&color=white)](https://github.com/hku-mars/FAST_LIO/stargazers)  
     Computationally efficient and robust LiDAR-inertial odometry package based on iterated error-state Kalman filters. Ideal for backpack mapping, drone SLAM, and mobile reality capture.
 
-15. **[CloudCompare](https://github.com/CloudCompare/CloudCompare)** [![GitHub stars](https://img.shields.io/github/stars/CloudCompare/CloudCompare?style=social&color=white)](https://github.com/CloudCompare/CloudCompare/stargazers)  
+15. **[CloudCompare](https://github.com/CloudCompare/CloudCompare)** [![GitHub_Stars](https://img.shields.io/github/stars/CloudCompare/CloudCompare?style=social&color=white)](https://github.com/CloudCompare/CloudCompare/stargazers)  
     Open-source 3D point cloud and triangular mesh editing and processing software. Renowned for LiDAR comparison (Cloud-to-Cloud, Cloud-to-Mesh distance), registration, and inspection.
 
-16. **[WebODM](https://github.com/OpenDroneMap/WebODM)** [![GitHub stars](https://img.shields.io/github/stars/OpenDroneMap/WebODM?style=social&color=white)](https://github.com/OpenDroneMap/WebODM/stargazers)  
+16. **[WebODM](https://github.com/OpenDroneMap/WebODM)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenDroneMap/WebODM?style=social&color=white)](https://github.com/OpenDroneMap/WebODM/stargazers)  
     User-friendly, modern web interface and REST API for OpenDroneMap. Adds multi-user management, ground control point (GCP) alignment, interactive 2D tile viewing, and 3D point cloud tools.
 
-17. **[openMVS](https://github.com/cdcseacave/openMVS)** [![GitHub stars](https://img.shields.io/github/stars/cdcseacave/openMVS?style=social&color=white)](https://github.com/cdcseacave/openMVS/stargazers)  
+17. **[openMVS](https://github.com/cdcseacave/openMVS)** [![GitHub_Stars](https://img.shields.io/github/stars/cdcseacave/openMVS?style=social&color=white)](https://github.com/cdcseacave/openMVS/stargazers)  
     Complete Multi-View Stereo library designed to take sparse point clouds and camera poses from SfM (e.g. openMVG, COLMAP) and produce dense point clouds, smooth surface meshes, and UV textures.
 
-18. **[OpenSfM](https://github.com/mapillary/OpenSfM)** [![GitHub stars](https://img.shields.io/github/stars/mapillary/OpenSfM?style=social&color=white)](https://github.com/mapillary/OpenSfM/stargazers)  
+18. **[OpenSfM](https://github.com/mapillary/OpenSfM)** [![GitHub_Stars](https://img.shields.io/github/stars/mapillary/OpenSfM?style=social&color=white)](https://github.com/mapillary/OpenSfM/stargazers)  
     Open-source Structure-from-Motion library built on OpenCV and Ceres Solver by Mapillary. Optimized for street-level crowdsourced photography, spherical panoramas, and aerial datasets.
 
-19. **[PDAL](https://github.com/PDAL/PDAL)** [![GitHub stars](https://img.shields.io/github/stars/PDAL/PDAL?style=social&color=white)](https://github.com/PDAL/PDAL/stargazers)  
+19. **[PDAL](https://github.com/PDAL/PDAL)** [![GitHub_Stars](https://img.shields.io/github/stars/PDAL/PDAL?style=social&color=white)](https://github.com/PDAL/PDAL/stargazers)  
     Point Data Abstraction Library (the point-cloud counterpart to GDAL). Provides a pipeline engine for reading, writing, filtering, clipping, reprojecting, and transforming point clouds across formats.
 
-20. **[LAStools](https://github.com/LAStools/LAStools)** [![GitHub stars](https://img.shields.io/github/stars/LAStools/LAStools?style=social&color=white)](https://github.com/LAStools/LAStools/stargazers)  
+20. **[LAStools](https://github.com/LAStools/LAStools)** [![GitHub_Stars](https://img.shields.io/github/stars/LAStools/LAStools?style=social&color=white)](https://github.com/LAStools/LAStools/stargazers)  
     Flagship suite of ultra-fast batch command-line tools for compressing (LASzip), filtering, classifying, rasterizing, and analyzing LiDAR point clouds.
 
-21. **[Multi-View Environment (MVE)](https://github.com/simonfuhrmann/mve)** [![GitHub stars](https://img.shields.io/github/stars/simonfuhrmann/mve?style=social&color=white)](https://github.com/simonfuhrmann/mve/stargazers)  
+21. **[Multi-View Environment (MVE)](https://github.com/simonfuhrmann/mve)** [![GitHub_Stars](https://img.shields.io/github/stars/simonfuhrmann/mve?style=social&color=white)](https://github.com/simonfuhrmann/mve/stargazers)  
     Complete end-to-end framework for image-based 3D reconstruction containing SfM, multi-view stereo, floating-scale surface reconstruction (FSSR), and clean texture generation.
 
-22. **[MicMac](https://github.com/micmacIGN/micmac)** [![GitHub stars](https://img.shields.io/github/stars/micmacIGN/micmac?style=social&color=white)](https://github.com/micmacIGN/micmac/stargazers)  
+22. **[MicMac](https://github.com/micmacIGN/micmac)** [![GitHub_Stars](https://img.shields.io/github/stars/micmacIGN/micmac?style=social&color=white)](https://github.com/micmacIGN/micmac/stargazers)  
     Free open-source scientific photogrammetric suite developed by IGN (France). Engineered for high-precision metric 3D reconstruction, geodetic aerial surveys, and cultural heritage documentation.
 
 ---
@@ -166,7 +166,7 @@ A complete self-hosted or hybrid reality-capture processing stack typically comb
 
 1. 🍴 Fork the repository on GitHub.
 2. 🌿 Create a descriptive feature branch (`git checkout -b add-my-platform`).
-3. ✏️ Add or update entries following the established table / star badge conventions.
+3. ✏️ Add or update entries following the established table / Stars_Badge conventions.
 4. 📝 Ensure links are direct, factual, and include specific pricing and free tier/trial limits.
 5. 🚀 Submit a Pull Request to [Awesome-Reality-Capture-Platform](https://github.com/ishandutta2007/Awesome-Reality-Capture-Platform).
 
