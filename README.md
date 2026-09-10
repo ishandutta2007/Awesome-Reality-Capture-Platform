@@ -1,8 +1,5 @@
 # Awesome-Reality-Capture-Platform
 
-Markdown
-Copy
-Copied
 ## Top Reality Capture Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
@@ -11,52 +8,34 @@ Copied
 
 This repository tracks notable **SaaS platforms** and **open-source projects** for **Reality Capture**. These tools turn photos, 360° imagery, laser scans, and drone data into accurate 3D models, point clouds, orthomosaics, digital twins, and progress documentation for construction, architecture, surveying, and industrial use.
 
-**Examples** include OpenSpace, Matterport, DroneDeploy, Reconstruct, HoloBuilder, Cupix, NavVis, GeoSLAM, Pix4D, and OpenDroneMap Cloud (the category leaders).
+**Examples** include OpenSpace, Matterport, DroneDeploy, Reconstruct, HoloBuilder, Cupix, NavVis, GeoSLAM, Pix4D, OpenDroneMap Cloud, Cintoo Cloud, and RealityCapture (the category leaders).
 
 **Open-source emphasis**: Reality capture has an exceptionally strong open-source ecosystem. **OpenDroneMap / WebODM**, **COLMAP**, **Meshroom (AliceVision)**, **OpenSfM**, **MicMac**, **openMVG + openMVS**, and related tools provide production-capable photogrammetry and 3D reconstruction pipelines. This section is heavily expanded with every major active project.
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
 
-- **[OpenSpace](https://www.openspace.ai/)**  
-  Leading construction reality-capture platform focused on 360° walkthroughs, progress tracking, and AI-powered site documentation.
-
-- **[Matterport](https://matterport.com/)**  
-  Popular 3D capture and digital-twin platform for spaces, with high-quality textured models, virtual tours, and property documentation.
-
-- **[DroneDeploy](https://www.dronedeploy.com/)**  
-  Comprehensive drone mapping and reality-capture platform producing orthomosaics, point clouds, 3D models, and site analytics, with autonomous flight support.
-
-- **[Reconstruct](https://www.reconstructinc.com/)**  
-  Reality-capture and progress-tracking solution aimed at construction teams needing accurate as-built documentation and comparison against plans.
-
-- **[HoloBuilder](https://www.holobuilder.com/)**  
-  360° reality-capture and construction progress platform for site documentation and remote collaboration.
-
-- **[Cupix](https://www.cupix.com/)**  
-  3D reality-capture and digital-twin platform for construction and facility documentation from photos and 360 imagery.
-
-- **[NavVis](https://www.navvis.com/)**  
-  High-accuracy indoor mobile mapping and reality-capture solutions producing detailed point clouds and digital twins of buildings.
-
-- **[GeoSLAM](https://geoslam.com/)**  
-  Handheld and mobile LiDAR scanning systems and software for rapid indoor/outdoor point-cloud capture and processing.
-
-- **[Pix4D](https://www.pix4d.com/)**  
-  Professional photogrammetry suite for drone and terrestrial imagery, generating accurate maps, point clouds, and 3D models.
-
-- **[OpenDroneMap Cloud](https://www.opendronemap.org/)**  
-  Hosted/cloud offering built on the open-source OpenDroneMap toolkit for processing drone imagery into maps and 3D models.
-
-- **[Other reality-capture platforms](https://www.openspace.ai/)**  
-  Additional commercial solutions covering terrestrial laser scanning, mobile mapping, and construction digital twins.
+| Platform | Primary Focus & Capabilities | Starting Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Matterport](https://matterport.com/)** | 3D spatial capture, digital twins, virtual tours, and photorealistic property documentation from smartphones and 360° cameras. | Starts at **$12/month** ($144/year billed annually) or **$14/month** (billed monthly) for Starter 5 (5 active spaces, 1 user seat). | **Free forever plan**: 1 active space, 1 user account, capture via iOS/Android phones and supported 360° cameras (excludes Matterport Pro cameras and schematic floor plan exports). |
+| **[OpenDroneMap Cloud (WebODM Lightning)](https://www.opendronemap.org/)** | Hosted photogrammetry cloud service converting drone, aerial, and terrestrial imagery into orthomosaics, 3D textured models, and digital elevation models. | Starts at **$24/month** (billed annually at $288/year) or **$29/month** (billed monthly) for Starter tier (up to 1,500 images/map, 1 concurrent task, 100 GB storage); pay-as-you-go credits start from **$10**. | **Free tier credits**: **150 free processing credits** upon account signup (~150 drone images processed) with no expiration date. (Self-hosted WebODM is free forever with unlimited processing). |
+| **[Cupix](https://www.cupix.com/)** | 3D reality capture, 360° video site walkthroughs, BIM-to-as-built comparison, and digital twin platform for construction site documentation. | Starts at **$20.40/month** (billed annually at $245/year) or **$24/month** (billed monthly) for Cupix Studio/Homes entry tier; CupixWorks construction enterprise tiers start at **~$500/month**. | **Free forever plan**: 1 active 3D virtual tour / workspace per month. **30-day free trial** includes 1 active workspace and 250 MB cloud storage for full virtual tour creation. |
+| **[GeoSLAM (FARO Connect / Sphere XG)](https://geoslam.com/)** | Handheld and mobile LiDAR SLAM registration, 3D point cloud generation, geospatial filtering, and cloud digital twin hosting. | Starts at **$99/month** for FARO Sphere XG Connect cloud entry tier (or **~$4,500** perpetual desktop license with ~$1,200/year maintenance). | **30-day free trial**: Fully functional evaluation license via FARO providing full mobile LiDAR SLAM processing, point-cloud filtering, and registration tools. |
+| **[Cintoo Cloud](https://cintoo.com/)** | Cloud-based reality capture platform converting massive laser scan point clouds into high-resolution 3D surface meshes for BIM coordination and scan-to-BIM comparison. | Starts at **~$100/month** (billed annually from ~$1,200/year for entry 100-scan packages) or **€90/month** for basic cloud hosting tiers. | **30-day free trial**: Full access to cloud point-cloud mesh viewer, scan-to-BIM overlay comparison, cropping, and measurement tools using pre-loaded sample scans or custom scan uploads. |
+| **[Pix4D (PIX4Dcloud)](https://www.pix4d.com/)** | Professional photogrammetry cloud suite processing drone and terrestrial imagery into survey-grade 2D orthomosaics, 3D point clouds, and elevation models. | Starts at **$107.50/month** (billed annually at $1,290/year) or **$129/month** (billed monthly) for PIX4Dcloud Starter (500 processing credits/year, 500 GB cloud storage). | **15-day free trial** of PIX4Dcloud Pro: Includes 40 cloud processing credits, timeline comparisons, and 2D/3D measurement tools (raw file export and download disabled during trial). |
+| **[HoloBuilder (FARO Sphere XG)](https://www.holobuilder.com/)** | 360° construction reality capture, sheet/drawing mapping, progress monitoring, and remote collaboration for jobsites. | Starts at **$125/user/month** (or entry project plans starting from **~$500/month** / $6,000/year under FARO Sphere XG). | **21-day free trial**: Full access to JobWalk mobile app, 2D floor plan sheet mapping, and 1 active trial project with unlimited 360° photo uploads (no credit card required). |
+| **[NavVis (NavVis IVION)](https://www.navvis.com/)** | High-precision indoor mobile mapping, factory/building digital twins, cloud point-cloud streaming, and spatial asset management. | Starts at **€1,685/year** (~**$154/month** or ~$1,850/year) for NavVis IVION Core 25 (up to 25 site datasets/panoramas and cloud hosting). | **Free forever interactive Cloud Demo**: Unrestricted access to pre-loaded factory and enterprise facility digital twin sandboxes; **30-day proof-of-concept (POC)** available for enterprise site evaluations upon consultation. |
+| **[DroneDeploy](https://www.dronedeploy.com/)** | Autonomous drone mapping and reality-capture platform producing orthomosaics, 3D point clouds, elevation analytics, and 360° ground walkthroughs. | Starts at **$329/month** (billed annually at $3,948/year) or **$499/month** (billed monthly) for Individual tier (1 user, up to 1,000 images per map). | **14-day free trial**: Full access to aerial photogrammetry, Live Map, and 360 Walkthroughs (capped at standard 1,000 images/map; no credit card required). Mobile flight planning app remains permanently free with no processing. |
+| **[Reconstruct](https://www.reconstructinc.com/)** | Visual Command Center integrating drone photogrammetry, 360° walk capture, and 4D BIM schedule-versus-reality progress tracking. | Starts at **~$500/month** (**$6,000/year**) for single-project entry license deployments; enterprise multi-project contracts scale from $10,000+/year. | **30-day free trial / guided pilot**: 1 active project deployment with unlimited user seats, 4D BIM schedule integration, and multi-source reality capture (drones, 360° cameras, and smartphones). |
+| **[OpenSpace](https://www.openspace.ai/)** | AI-powered construction reality-capture platform providing automated 360° video walkthroughs, BIM side-by-side comparison, and Vision Engine site progress tracking. | Starts at **~$833/month** (**$10,000/year** minimum platform entry threshold), scaling based on annual construction volume and feature modules. | **30-day proof-of-concept (POC) pilot**: 1 active jobsite deployment with 360° video walk processing, BIM alignment, and field team onboarding. OpenSpace Academy learning resources are permanently free. |
+| **[RealityCapture (Capturing Reality / Epic Games)](https://www.capturingreality.com/)** | High-performance photogrammetry engine and RealityScan mobile app for photorealistic 3D mesh reconstruction from aerial, handheld, and DSLR photos. | **Free** for businesses and individuals earning under $1M gross annual revenue; **$1,250/seat/year** (~**$104.17/month**) subscription for organizations exceeding $1M/year. | **Free forever tier**: Full-featured photogrammetry desktop processing with unlimited exports for users/companies with <$1M annual revenue. RealityScan mobile iOS/Android app is permanently free. |
 
 ## Open-Source GitHub Projects
 
